@@ -1,6 +1,7 @@
 import com.abey;
 class first{
 public static void main(String a[]){
-  System.out.println("Git Test");
+  system.out.println("Git Test1");
+  system.out.println("Git Test2");
 }
 }
